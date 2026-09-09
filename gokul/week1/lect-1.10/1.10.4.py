@@ -11,3 +11,16 @@
 #     print(7!=3)
 #     print(a=3)
 #     ```
+
+# over all run the coad SyntaxError
+
+# True
+# False
+# SytaxError
+# False
+# True
+# False
+# False
+# True
+# True
+# TypeError

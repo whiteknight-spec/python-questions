@@ -3,3 +3,11 @@
 # ```
 # print("hello",12,24.5)
 # ```
+
+"""
+print("hello",12,24.5)
+yes,this code valid
+o/p=hello 12 24.5
+print()=can multiple values seprate with comma 
+
+"""

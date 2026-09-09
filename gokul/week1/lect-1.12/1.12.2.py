@@ -6,3 +6,9 @@
 #     print(s=="India")
 #     print(s=="india")
 #     ```
+
+# o/p :
+# True
+# True
+# True
+# True

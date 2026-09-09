@@ -3,3 +3,6 @@
 #     x=True
 #     print(type(x))
 #     ```
+
+# o/p :
+# <class 'bool'>

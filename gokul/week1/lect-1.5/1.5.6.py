@@ -5,3 +5,5 @@
 #     n=input()
 #     print("Hello",n,"How is the weather in" ,n )
 #     ```
+
+#o/p=Hello nallur How is the weather in nallur

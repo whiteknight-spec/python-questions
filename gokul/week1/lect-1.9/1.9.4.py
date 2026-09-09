@@ -7,3 +7,6 @@
 #     d=a*b
 #     print(d)
 #     ```
+
+# o/p :
+# type error

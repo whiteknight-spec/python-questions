@@ -11,3 +11,15 @@
 #     print(not(Ture))
 #     print(not(False))
 #     ```
+
+# o/p  :
+# True
+# False
+# False
+# False
+# True
+# True
+# False
+# True
+# NameError
+# True

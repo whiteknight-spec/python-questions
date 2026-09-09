@@ -2,3 +2,10 @@
 #     ```
 #     print['hello']
 #     ```
+"""
+
+print['hello']
+o/p=TypeError
+print() buildinfunction so cannt print['hello']
+
+"""

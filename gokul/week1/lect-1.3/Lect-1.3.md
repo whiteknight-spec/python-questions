@@ -13,7 +13,6 @@ print("hello","world")
 print("hel",,,"eorld")
 ```
 
-
 4) What will be the output of the below code?
 ```
 print("hello","world","earth")

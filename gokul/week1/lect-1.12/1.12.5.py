@@ -13,3 +13,16 @@ s="python"
 #     print(s[2:100])
 
 #     ```
+
+# o/p :
+# p 
+# n 
+# o 
+# h 
+# t 
+# y 
+# p
+# error
+# thon
+
+

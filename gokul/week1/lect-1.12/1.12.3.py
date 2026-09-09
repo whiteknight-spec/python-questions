@@ -5,3 +5,9 @@
 #     print('ab'<'az')
 #     print('abcde'<'abcdef')
 #     ```
+
+# o/p :
+# False
+# True
+# True
+# True

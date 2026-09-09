@@ -7,3 +7,5 @@
 # print(n/2)
 # print(n-n)
 #     ```
+
+#o/p= TypeError

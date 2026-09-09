@@ -6,3 +6,12 @@
 #     print(7**3)
 #     print(10***3)
 #     ```
+
+# o/p :
+# overall running code error
+
+# 16
+# 64
+# 100000000
+# 343
+# SyntaxError

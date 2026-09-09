@@ -6,3 +6,7 @@
 #     print(type(l[2]))
 #     ```
 
+#o/p :
+# <class 'list'>
+# 30
+# <class 'int'>

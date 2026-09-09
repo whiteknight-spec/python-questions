@@ -7,3 +7,7 @@ txt3 = "My name is {}, I'm {}".format("John",36)
 print(txt1)
 print(txt2)
 print(txt3)
+
+#txt1 : variable declared and called
+#txt2 : access the index values
+#txt3 : access the position 

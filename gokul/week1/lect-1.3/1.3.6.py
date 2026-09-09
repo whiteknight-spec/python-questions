@@ -2,3 +2,9 @@
 #     ```
 #     print('hello')
 #     ```
+"""
+
+print('hello')
+o/p=hello
+
+"""

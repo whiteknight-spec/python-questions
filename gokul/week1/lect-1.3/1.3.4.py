@@ -2,3 +2,10 @@
 # ```
 # print("hello","world","earth")
 # ```
+
+"""
+
+print("hello","world","earth")
+o/p=hello world earth
+
+"""

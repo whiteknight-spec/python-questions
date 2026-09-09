@@ -29,4 +29,17 @@ print(bool(k))
 print(bool(l))
 print(bool(m))
 
-
+# o/p :
+# True
+# True
+# False
+# True
+# True
+# False
+# True
+# True
+# False
+# True
+# True
+# False
+# True

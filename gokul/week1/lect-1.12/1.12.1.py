@@ -4,3 +4,7 @@
 #     print(s*5)
 #     print(s[0]*5)
 #     ```
+
+# o/p :
+#  goodgoodgoodgoodgood
+#  ggggg

@@ -3,3 +3,4 @@
 #     ```
 #     n=input()
 #     ```
+# n is string data type

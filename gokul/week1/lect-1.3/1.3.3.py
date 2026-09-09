@@ -3,3 +3,9 @@
 # print("hel",,,"eorld")
 # ```
 
+"""
+
+print("hel",,,"eorld")
+o/p= invalid syntax
+
+"""

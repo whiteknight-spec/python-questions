@@ -7,3 +7,12 @@
 # print(n+2)
 # print(n+3)
 # ```
+"""
+o/p :
+Enter a number:
+2
+2
+3
+4
+5
+"""

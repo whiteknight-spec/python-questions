@@ -3,3 +3,6 @@
 #     n=input()
 #     print(n*n)
 #     ```
+
+n=int(input())
+print(n*n)

@@ -3,3 +3,5 @@
 #     n=input()
 #     print("HEllo",n)
 #     ```
+
+#.  O/P= HELLO gokul
