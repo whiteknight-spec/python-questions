@@ -17,3 +17,5 @@ OUTPUT: 2
 INPUT:'y'
 OUTPUT: 25
 '''
+x = input()
+print(ord(x) - ord("a") + 1)

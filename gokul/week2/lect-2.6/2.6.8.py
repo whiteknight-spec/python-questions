@@ -3,3 +3,6 @@
 print("Python String Methods".index('o'))
 print("Python String Methods".index('O'))
 
+# o/p :
+# 4
+# error

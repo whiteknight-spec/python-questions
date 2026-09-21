@@ -15,3 +15,6 @@ elif marks<60:
 else:
     print("none")
 
+# o/p:
+# A    
+

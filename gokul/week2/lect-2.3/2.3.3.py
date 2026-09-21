@@ -6,3 +6,9 @@
 #     n=n/2
 #     print(type(n))
 #     print(n)
+
+# o/p :
+# <class 'int'>
+# 10
+# <class 'float'>
+# 5.0

@@ -16,3 +16,7 @@ OUTPUT: 'bcdef'
 '''
 
 # solution:
+x = input()
+
+for i in x:
+    print(chr(ord(i) + 1), end="")
