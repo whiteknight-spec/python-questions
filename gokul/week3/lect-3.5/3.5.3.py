@@ -4,5 +4,3 @@
 for i in range(10):
 print(i)
 '''
-# o/p:
-# IndentationError

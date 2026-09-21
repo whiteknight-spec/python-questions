@@ -5,6 +5,3 @@
 # c) _a=10
 # d) $a=10
 # e) A b=10
-
-# valid variable name - c
-# not valid variable names - a,b,d,e

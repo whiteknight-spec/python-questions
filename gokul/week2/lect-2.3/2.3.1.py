@@ -7,9 +7,3 @@
 #     a=a+a
 #     print(a)
 #     ```
-
-# o/p :
-# <class 'int'>
-# <class 'str'>
-# IndiaIndia
-

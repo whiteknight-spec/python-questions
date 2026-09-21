@@ -9,6 +9,3 @@ count-=10
 count+=2
 count/=2
 print(count)
-
-# o/p :
-# 4.0

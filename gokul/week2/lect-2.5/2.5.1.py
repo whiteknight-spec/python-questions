@@ -2,6 +2,3 @@
 
 # print('it's a beautiful day') 
 # print("we are from "IIT Madras" Madras")
-
-print("it's a beautiful day") 
-print('we are from "IIT Madras" Madras')

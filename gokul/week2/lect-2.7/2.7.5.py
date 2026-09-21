@@ -5,5 +5,3 @@ alpha="abcdefghijklmnopqrstuvwxyz"
 s='gokul'
 
 print(alpha.index(s[0]))
-# o/p:
-# 6

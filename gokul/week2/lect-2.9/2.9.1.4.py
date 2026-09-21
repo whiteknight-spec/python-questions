@@ -15,9 +15,3 @@ if marks<60:
 else:
     print("none")
 
-# o/p:
-# A
-# B
-# C
-# D
-# none

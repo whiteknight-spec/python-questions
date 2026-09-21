@@ -9,7 +9,3 @@ if age<13:
     print("minor")
 else:
     print("none")
-
-# o/p:
-# major
-# none

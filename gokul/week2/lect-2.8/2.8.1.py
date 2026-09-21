@@ -12,8 +12,3 @@ OUTPUT: 'not eligible'
 INPUT: 120000
 OUTPUT: 'eligible'
 '''
-a=int(input())
-if a>90000:
-    print("eligible")
-else:
-    print("not eligible")    

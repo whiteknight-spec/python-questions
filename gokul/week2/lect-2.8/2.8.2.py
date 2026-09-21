@@ -3,12 +3,3 @@
 
 
 # HINT : subtract current year from YOB
-
-YOB=int(input("year of birth:"))
-x=2026-YOB
-if x>=18:
-    print(x)
-    print("eligible to vote")
-else:
-    print(x)
-    print("not eligible")    
